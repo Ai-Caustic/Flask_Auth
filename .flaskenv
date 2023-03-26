@@ -1,0 +1,2 @@
+FLASK_APP=flaskauth
+Flask_ENV=development
